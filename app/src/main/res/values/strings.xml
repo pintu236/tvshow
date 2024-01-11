@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TVShow</string>
+    <string name="title_most_popular">This week most popular</string>
+    <string name="label_alert">Alert!</string>
+    <string name="action_ok">Ok</string>
+    <string name="hint_search_tv_shows">Search TV Shows</string>
+    <string name="title_description">Description</string>
+    <string name="title_similar_shows">Similar Shows</string>
+    <string name="title_seasons">Seasons(%1$d)</string>
+    <string name="label_no_of_episodes">Episodes - %1$d</string>
+    <string name="btn_load_more">Load more</string>
+</resources>
